@@ -1,7 +1,7 @@
 - 👋 Hi, @joeyzoli vagyok
 - 👀 Érdekel a Java programozás
 - 🌱 2 tanfolyamot is végeztem Java programozásból
-- Jelenleg a munkahelyemen végzek kisebb Java fejlesztéseket.
+- Jelenleg a VEAS-ban fejlesztek Java nyelven.
 - Azoknak a Gir repóját töltöttem fel ide, hogy bárki meg tudja nézni és esetleg forkolja, ha neki is ilyesmire van szüksége.
 
 <!---
